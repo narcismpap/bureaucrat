@@ -1,0 +1,38 @@
+{
+    "name": "Daenerys Targaryen",
+    "ref": "GoT-001",
+    "manager_of": [
+        {
+            "name": "Jon Snow",
+            "ref": "GoT-002",
+            "manager_of": [
+                {
+                    "name": "Samwell Tarly",
+                    "ref": "GoT-003",
+                    "manager_of": null
+                }
+            ]
+        },
+        {
+            "name": "Cersei Lannister",
+            "ref": "GoT-004",
+            "manager_of": [
+                {
+                    "name": "Jaime Lannister",
+                    "ref": "GoT-005",
+                    "manager_of": null
+                },
+                {
+                    "name": "Robert Baratheon",
+                    "ref": "GoT-006",
+                    "manager_of": null
+                },
+                {
+                    "name": "Gregor Clegane",
+                    "ref": "GoT-007",
+                    "manager_of": null
+                }
+            ]
+        }
+    ]
+}
